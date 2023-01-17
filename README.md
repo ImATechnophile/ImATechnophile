@@ -4,7 +4,9 @@ Just a learner who loves to write code 👨‍💻
 
 Skills: Polyglot developer
 
-- 🔭 I’m currently working on Developing Microservices. Angular for client and Spring Boot for server 
+- 🔭 I’m currently working on Developing Microservices. Angular for client and Spring Boot for server.
+- 🌱 Also, working on developing Intelligent Automantion Platform. 
+- 🌱 Passionate in frontend automation using Cypress.
 - 🌱 I’m currently doing my hobby projects in React and ML powered UI using TensorFlow.js
 
 - 😄 Pronouns: ImATechnophile 
