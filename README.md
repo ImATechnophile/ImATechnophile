@@ -4,7 +4,7 @@ Just a learner who loves to write code 👨‍💻
 
 Skills: Polyglot developer
 
-- 🔭 Currently working on developing Intelligent Automantion Platform fueled by AI Models.
+- 🔭 Currently working on developing Intelligent Automantion Platform and LLM Chatbots fueled by AI Models.
 - 🔭 Parallely working on Developing Microservices. Angular for client and Spring Boot for server.
 - 🌱 Passionate about every aspects of the SDLC.
 - 🌱 Doing my hobby projects in React and ML powered UI using TensorFlow.js
