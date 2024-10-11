@@ -4,7 +4,7 @@ A true engineer, ready to delve deep into all diverse technologies to provide a 
 
 Skills: Polyglot developer, AI Engineer
 
-- 🔭 Currently working on developing Intelligent Automantion Platform and LLM Chatbots fueled by AI Models.
+- 🔭 I'm currently immersing myself in Python, leveraging IoT for UAV (Drone) control, and harnessing AI models (LLMs) for conversational bots.
 - 🌱 Doing my hobby projects in React and ML powered UI using TensorFlow.js
 
 - 😄 Pronouns: ImATechnophile 
