@@ -1,12 +1,10 @@
 ### Hi there 👋, I'm Saravana Prakash
 #### you can also google me as ImATechnophile
-Just a learner who loves to write code 👨‍💻
+A true engineer, ready to delve deep into all diverse technologies to provide a solid solution and drive new business opportunities within the organization. 👨‍💻
 
-Skills: Polyglot developer
+Skills: Polyglot developer, AI Engineer
 
 - 🔭 Currently working on developing Intelligent Automantion Platform and LLM Chatbots fueled by AI Models.
-- 🔭 Parallely working on Developing Microservices. Angular for client and Spring Boot for server.
-- 🌱 Passionate about every aspects of the SDLC.
 - 🌱 Doing my hobby projects in React and ML powered UI using TensorFlow.js
 
 - 😄 Pronouns: ImATechnophile 
